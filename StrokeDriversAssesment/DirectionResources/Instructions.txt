@@ -1,0 +1,3 @@
+“The large arrows correspond to the lorries and the small arrows to the cars. Each arrow indicates a direction of travel.” (Demonstrate right, left, upwards as away and downwards as towards). Arrows facing „north‟ indicate the vehicle is travelling away from the client, arrows facing „south‟ indicate the vehicle is travelling towards the client. 
+ 
+“I want you to position these cards (indicate the car/lorry cards) so that each car is travelling in the direction indicated by the small arrow and each lorry in the direction indicated by the large arrow. I will do the first one as an example” 

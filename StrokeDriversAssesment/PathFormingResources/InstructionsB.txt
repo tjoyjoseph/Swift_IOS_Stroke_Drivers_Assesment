@@ -1,0 +1,1 @@
+“There are numbers and letters in circles on this page. Please click on the elements, alternating in order between the numbers and letters. Start at number 1 , then go to the first letter, A , then go to the next number, 2, and then the next letter, B, and so on. Work as quickly and accurately as you can.” 

@@ -1,0 +1,1 @@
+“You will see that there are groups of dots arranged in rows. Some of the groups have 3 dots, some 4 and some 5 dots. I want you to cross out every group of 4 dots.”“I want you to complete the first row as a practice.”
